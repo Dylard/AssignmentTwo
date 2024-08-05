@@ -1,0 +1,30 @@
+Start of Program
+
+Initialize Variables
+    Income
+    taxRate
+    numWeeks
+
+Print message to User
+    ask user for numWeeks
+    ask user for income
+
+If income < $500, tax rate is 10%.
+If income >= $500 and < $1500, tax rate is 15%.
+If income >= $1500 and < $2500, tax rate is 20%.
+If income >= $2500, tax rate is 30%.
+
+Tax Amount = income x tax rate
+Average Tax = Tax Amount / numWeeks
+
+Show Results
+
+Print Message to User
+
+End of Program
+
+
+
+
+
+
